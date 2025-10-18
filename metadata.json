@@ -1,0 +1,5 @@
+{
+  "name": "Asiya_todoList",
+  "description": "A feature-rich To-Do application inspired by Microsoft To Do, built with React, TypeScript, and Tailwind CSS. It includes smart lists, task management, suggestions, drag-and-drop reordering, and a light/dark theme.",
+  "requestFramePermissions": []
+}
