@@ -39,20 +39,20 @@ All data is stored locally, making the app fully functional even when offline.
 
 ## 🚀 Getting Started
 
-### ✅ Prerequisites
+### Prerequisites
 - Node.js **v18+** (v20 recommended)  
 - npm / pnpm / yarn (use your preferred package manager)
 
-### 🧩 Installation
+### Installation
 ```bash
 npm install
-▶️ Run Development Server
+Run Development Server
 bash
 Copy code
 npm run dev
 Open the URL shown in the terminal — typically http://localhost:3000
 
-🏗️ Build for Production
+Build for Production
 bash
 Copy code
 npm run build
@@ -86,14 +86,15 @@ Copy code
 ├─ vite.config.ts        # React plugin + env defines
 ├─ tsconfig.json
 └─ package.json
+
 🧠 Future Improvements
- Add cloud sync (Firebase / Supabase)
+Add cloud sync (Firebase / Supabase)
 
- Task reminders and notifications
+Task reminders and notifications
 
- Collaborative lists with sharing links
+Collaborative lists with sharing links
 
- AI task suggestions
+AI task suggestions
 
 📄 License
 This project is licensed under the MIT License — feel free to use, modify, and share.
